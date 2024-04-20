@@ -5,3 +5,5 @@ services:
     tty: true
     volumes:
       - ./data/ollama:/root/.ollama
+    ports:
+      - 11434:11434

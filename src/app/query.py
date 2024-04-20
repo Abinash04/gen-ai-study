@@ -35,5 +35,9 @@ def query(question: QueryType) -> RESPONSE_TYPE | None:
 
     # TASK: Query the vector database and use llama2 LLM to get an answer to the passed in question.
     # Return: The Response object from the query engine.
+    
+    query_engine = llama.complete(str(question))
+    # response = query_engine.query(question)
+    print("response:", query_engine)
 
     return None

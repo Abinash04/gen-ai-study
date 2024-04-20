@@ -13,7 +13,9 @@ logger = get_logger("main")
 def main() -> None:
     logger.info("Started.")
 
-    # ingest()
+    ingest()
+    # import sys
+    # sys.exit(0)
 
     response = query("Succinctly summarize what disturbes Victor's sleep?")
 

@@ -8,6 +8,9 @@ from chromadb import PersistentClient
 if TYPE_CHECKING:
     from chromadb.api import ClientAPI
 
+# import chromadb
+
+
 __all__ = ["get_chroma_client"]
 
 
