@@ -14,8 +14,6 @@ def main() -> None:
     logger.info("Started.")
 
     ingest()
-    # import sys
-    # sys.exit(0)
 
     response = query("Succinctly summarize what disturbes Victor's sleep?")
 
