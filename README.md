@@ -52,3 +52,41 @@ poetry install
 # Run __main__.py
 app run
 ```
+
+## Terminal Text Output
+
+1. **Initial Set up with Python3.12 and Poetry1.8.2**
+
+
+<img width="1733" alt="image" src="https://github.com/Abinash04/gen-ai-study/assets/15240069/e6f25704-3c02-42a3-a689-138f22dad127">
+
+
+2. **Ingesting Data**
+
+
+
+<img width="1733" alt="image" src="https://github.com/Abinash04/gen-ai-study/assets/15240069/1a209ec3-259e-4c64-a806-c93765551db8">
+
+
+3. **Initial Run without Yes or No Results**
+
+
+<img width="1737" alt="image" src="https://github.com/Abinash04/gen-ai-study/assets/15240069/cafe78e5-7fbd-42a6-b8cc-82075962a822">
+
+
+
+4. **Running LLM from Docker container - AWS EC2 instance using Iac (Terraform)**
+
+
+<img width="1633" alt="image" src="https://github.com/Abinash04/gen-ai-study/assets/15240069/6e9909fd-090d-4e01-9aba-ac8880998118">
+
+
+5. ***Final Result***
+
+
+<img width="1730" alt="image" src="https://github.com/Abinash04/gen-ai-study/assets/15240069/baf571e2-2fa0-4833-a004-83dec5e54029">
+
+
+
+
+
